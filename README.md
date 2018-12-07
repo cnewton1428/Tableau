@@ -95,6 +95,8 @@ Year of Order DATE Filter--> right click-->
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+Open Tableau --> Open Sales Dashboard file
+
 Objects on the bottom --> click and drag Web page to right
 
 Customize URL
