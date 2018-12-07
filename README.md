@@ -91,3 +91,25 @@ Edit trend line to show confidence bands
 public--> Docs--> Data camp--> Sales
 
 Year of Order DATE Filter--> right click-->
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Objects on the bottom --> click and drag Web page to right
+
+Customize URL
+
+Dashboard--> Actions--> Add Action --> Go to URL --> Rename to State URL --> Under Run On click select then click according to State under Fields
+
+URL 
+
+type in https://en.wikipedia.org/wiki/   in URL bar
+
+Go to the right arrow select State    
+
+so the URL now updates as  
+
+https://en.wikipedia.org/wiki/<State>
+
+Test link 1st and click ok
+
